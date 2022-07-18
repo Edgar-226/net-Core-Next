@@ -1,0 +1,4 @@
+node_modules
+bin
+.vs
+/obj/Debug/netcoreapp3.1
