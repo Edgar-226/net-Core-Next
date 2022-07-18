@@ -2,3 +2,5 @@ node_modules
 bin
 .vs
 /obj/Debug/netcoreapp3.1
+.vscode/launch.json
+.vscode/tasks.json
